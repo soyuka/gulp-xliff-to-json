@@ -1,0 +1,21 @@
+{
+  "name": "gulp-xliff-to-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["xliff", "json", "gulp"],
+  "author": "",
+  "license": "WTF",
+  "dependencies": {
+    "JSONPath": "^0.10.0",
+    "gulp-util": "^3.0.6",
+    "through2": "^2.0.0",
+    "xml2js": "^0.4.12"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
